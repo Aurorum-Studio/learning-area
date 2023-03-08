@@ -1,3 +1,4 @@
+# This fork is for my own learning purpose, it might have some difference with the mozilla original one, use that one if you do not know what I changed.
 # learning-area
 GitHub repo for the [MDN Learning Area](https://developer.mozilla.org/en-US/Learn).
 
